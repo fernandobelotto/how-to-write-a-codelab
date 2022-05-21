@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-05-21T16:12:08-03:00",
+  "id": "how-to-write-a-codelab",
+  "duration": 8,
+  "title": "Main title of the colab",
+  "authors": "Zarin",
+  "summary": "",
+  "source": "doc.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "medium"
+  ],
+  "feedback": "https://zarin.io",
+  "url": "how-to-write-a-codelab"
+}
